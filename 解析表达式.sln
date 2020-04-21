@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "解析表达式", "解析表达式\解析表达式.csproj", "{00EBEA90-3682-4FEE-A9F2-7683501A3281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00EBEA90-3682-4FEE-A9F2-7683501A3281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EBEA90-3682-4FEE-A9F2-7683501A3281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00EBEA90-3682-4FEE-A9F2-7683501A3281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00EBEA90-3682-4FEE-A9F2-7683501A3281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {621636F4-69D3-4EFA-A5EB-631DA89B278B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+F:\Project2020\解析表达式\解析表达式\bin\Debug\解析表达式.exe
+F:\Project2020\解析表达式\解析表达式\bin\Debug\解析表达式.pdb
+F:\Project2020\解析表达式\解析表达式\obj\Debug\解析表达式.csprojAssemblyReference.cache
+F:\Project2020\解析表达式\解析表达式\obj\Debug\解析表达式.Form1.resources
+F:\Project2020\解析表达式\解析表达式\obj\Debug\解析表达式.Properties.Resources.resources
+F:\Project2020\解析表达式\解析表达式\obj\Debug\解析表达式.csproj.GenerateResource.cache
+F:\Project2020\解析表达式\解析表达式\obj\Debug\解析表达式.exe
+F:\Project2020\解析表达式\解析表达式\obj\Debug\解析表达式.pdb
